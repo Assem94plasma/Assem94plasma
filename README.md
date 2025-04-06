@@ -67,13 +67,6 @@
   <!-- 🔥 GitHub Streaks -->
   <img src="https://streak-stats.demolab.com?user=asem&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streaks" />
 
-  <br/><br/>
-
-  <!-- 🚀 Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asem&layout=compact&theme=dark&hide_border=false" height="200" alt="Top Languages" />
-
-  <br/><br/>
-
   <!-- 📈 GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=asem&show_icons=true&theme=dark&hide_border=false&rank_icon=github" height="200" alt="GitHub Stats" />
 
