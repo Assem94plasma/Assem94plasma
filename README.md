@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
----
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/assem-abdel-kareem-935142294/" target="_blank">
@@ -13,17 +13,17 @@
   </a>
 </div>
 
----
+-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=asem.asem" />
 </div>
 
----
+-
 
 <h1 align="center">Hey there 👋</h1>
 
----
+-
 
 <h3 align="left">👨‍💻 About Me</h3>
 
@@ -34,7 +34,7 @@
   - ⚡ In my free time, I work on real-world data projects and explore new tools in the data ecosystem  
 </p>
 
----
+-
 
 <h3 align="left">🛠 Tools & Skills</h3>
 
@@ -56,9 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/seaborn.svg" height="40" alt="Seaborn" title="Seaborn" />
 </div>
 
-<p><strong>Additional Skills:</strong> Deep expertise in Statistical Analysis & Hypothesis Testing — a key strength in my data projects.</p>
 
 ---
+
+<p><strong>Additional Skills:</strong> Deep expertise in Statistical Analysis & Hypothesis Testing — a key strength in my data projects.</p>
 
 <h2>📊 GitHub Stats</h2>
 
