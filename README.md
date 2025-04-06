@@ -62,15 +62,6 @@
 
 <div align="center">
 
-  <!-- 🔥 GitHub Streaks -->
-  <img src="https://streak-stats.demolab.com?user=asem&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streaks" />
-
-
-
-  <!-- 📈 GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=asem&show_icons=true&theme=dark&hide_border=false&rank_icon=github" height="200" alt="GitHub Stats" />
-
-</div>
 
 ---
 
