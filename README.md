@@ -13,23 +13,23 @@
   </a>
 </div>
 
--
 
 
--
+
 
 <h1 align="center">Hey there 👋</h1>
 
--
+
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  Hi, I'm Asem from Cairo.  
-  - 🔭 I’m a passionate Data Analyst  
-  - 📚 Currently expanding my skills in Machine Learning  
-  - ⚡ In my free time, I work on real-world data projects and explore new tools in the data ecosystem  
+  Hi, I'm Asem from Cairo. <br>
+  - 🔭 I’m a passionate Data Analyst <br>
+  - 📚 Currently expanding my skills in Machine Learning <br>
+  - ⚡ In my free time, I work on real-world data projects and explore new tools in the data ecosystem
 </p>
+
 
 -
 
