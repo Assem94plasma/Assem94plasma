@@ -36,21 +36,21 @@
 <h3 align="left">🛠 Tools & Skills</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft-excel.svg" height="40" alt="Excel" title="Excel" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="40" alt="Excel" title="Excel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="40" alt="Power BI" title="Power BI" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI" title="Power BI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="40" alt="SQL Server" title="SQL Server" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="40" alt="SQL Server" title="SQL Server" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" height="40" alt="Python" title="Python" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" height="40" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg" height="40" alt="Pandas" title="Pandas" />
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" height="40" alt="Pandas" title="Pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/numpy.svg" height="40" alt="NumPy" title="NumPy" />
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" height="40" alt="NumPy" title="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/matplotlib.svg" height="40" alt="Matplotlib" title="Matplotlib" />
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40" alt="Matplotlib" title="Matplotlib" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/seaborn.svg" height="40" alt="Seaborn" title="Seaborn" />
+  <img src="https://img.icons8.com/color/48/000000/seaborn.png" height="40" alt="Seaborn" title="Seaborn" />
 </div>
 
 
