@@ -58,7 +58,6 @@
 
 <p><strong>Additional Skills:</strong> Deep expertise in Statistical Analysis & Hypothesis Testing — a key strength in my data projects.</p>
 
-<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
